@@ -1,8 +1,5 @@
 package com.test.testDemo;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class TestBean {
     private String helloStr;
 
